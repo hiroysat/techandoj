@@ -1,0 +1,52 @@
+baseURL = "https://techandoj.com/"
+languageCode = "ja"
+title = "Tech and Doj"
+theme = "PaperMod"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+
+[params]
+  author = "ひろ"
+  description = "外資系ITエンジニア・テコンドー実践者・AI活用マニアが書くキャリア・技術・武道・投資のブログ"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+
+  [params.homeInfoParams]
+    Title = "Tech and Doj へようこそ"
+    Content = "外資系ITサポートエンジニア歴20年・テコンドー歴20年のひろが、キャリア・AI活用・武道・投資について書いています。"
+
+  [[params.socialIcons]]
+    name = "X"
+    url = "https://x.com/"
+
+[menu]
+  [[menu.main]]
+    name = "キャリア"
+    url = "/categories/career/"
+    weight = 10
+  [[menu.main]]
+    name = "テコンドー"
+    url = "/categories/taekwondo/"
+    weight = 20
+  [[menu.main]]
+    name = "AI活用"
+    url = "/categories/ai/"
+    weight = 30
+  [[menu.main]]
+    name = "投資"
+    url = "/categories/invest/"
+    weight = 40
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
