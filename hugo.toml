@@ -34,14 +34,6 @@ hasCJKLanguage = true
     name = "テコンドー"
     url = "/categories/taekwondo/"
     weight = 20
-  [[menu.main]]
-    name = "AI活用"
-    url = "/categories/ai/"
-    weight = 30
-  [[menu.main]]
-    name = "投資"
-    url = "/categories/invest/"
-    weight = 40
 
 [taxonomies]
   category = "categories"
