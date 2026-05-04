@@ -19,7 +19,7 @@ hasCJKLanguage = true
 
   [params.homeInfoParams]
     Title = "Tech and Doj へようこそ"
-    Content = "外資系ITサポートエンジニア歴20年・テコンドー歴20年のひろが、キャリア・AI活用・武道・投資について書いています。"
+    Content = "外資系ITサポートエンジニア歴20年・テコンドー歴20年のひろが、キャリア・運動について書いています。"
 
   [[params.socialIcons]]
     name = "X"
