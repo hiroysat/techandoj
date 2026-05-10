@@ -1,6 +1,6 @@
 ---
 title: "未経験からIT転職できた理由——「時代はITだな」という直感だけで26万円のPCを買った話"
-date: 2026-04-26
+date: 2026-05-03
 draft: false
 categories: ["career"]
 tags: ["career", "job-change", "it", "beginner"]

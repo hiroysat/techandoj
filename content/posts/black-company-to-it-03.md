@@ -1,6 +1,6 @@
 ---
 title: "派遣社員が日本オラクルの正社員になった話——回り道してつかんだ切符"
-date: 2026-05-04
+date: 2026-05-10
 draft: false
 categories: ["career"]
 tags: ["career", "oracle", "job-change", "it"]
